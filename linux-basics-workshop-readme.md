@@ -37,7 +37,7 @@ Linux uses a hierarchical file system structure. Key directories include:
 
 ### File Permissions
 - `chmod`: Change file permissions
-  - Example: `chmod 644 file.txt`
+  - Example: `chmod 777 file.txt`
 
 ### Searching and Filtering
 - `grep`: Search for patterns in files
