@@ -68,5 +68,3 @@ Key TSK commands:
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [OverTheWire Bandit Wargame](https://overthewire.org/wargames/bandit/) for practicing Linux skills
 - [PicoCTF](https://picoctf.org/) for beginner-friendly CTF challenges
-
-Remember, the key to mastering these skills is practice. Good luck with your CTF adventures!
