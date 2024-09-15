@@ -65,10 +65,10 @@ Key TSK commands:
 - Practice regularly to improve your skills
 
 ## picoCTF questions
-https://play.picoctf.org/practice/challenge/301
-https://play.picoctf.org/practice/challenge/300
-https://play.picoctf.org/practice/challenge/137
-https://play.picoctf.org/practice/challenge/137
+ - https://play.picoctf.org/practice/challenge/301 
+ - https://play.picoctf.org/practice/challenge/300 
+ - https://play.picoctf.org/practice/challenge/137 
+ - https://play.picoctf.org/practice/challenge/285
 
 ## Further Resources
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
