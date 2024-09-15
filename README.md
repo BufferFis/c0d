@@ -64,6 +64,12 @@ Key TSK commands:
 - Combine commands with pipes (`|`) for efficient searching
 - Practice regularly to improve your skills
 
+## picoCTF questions
+https://play.picoctf.org/practice/challenge/301
+https://play.picoctf.org/practice/challenge/300
+https://play.picoctf.org/practice/challenge/137
+https://play.picoctf.org/practice/challenge/137
+
 ## Further Resources
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [OverTheWire Bandit Wargame](https://overthewire.org/wargames/bandit/) for practicing Linux skills
