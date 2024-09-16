@@ -1,4 +1,4 @@
-# Linux Basics for CTF Workshop
+# Linux Basics and Forensics
 
 ## Introduction
 This workshop covers essential Linux commands and concepts necessary for participating in Capture The Flag (CTF) competitions. It's designed for beginners and focuses on practical skills for navigating Linux systems and performing basic forensics tasks.
