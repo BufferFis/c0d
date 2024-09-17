@@ -48,6 +48,8 @@ Linux uses a hierarchical file system structure. Key directories include:
 ### Other Useful Commands
 - `file`: Determine file type
 - `strings`: Extract readable text from binary files
+- 'tar -xvf': Extract tar files
+- 'gunzip': unzip .gz files
 
 ## Basic Forensics with The Sleuth Kit (TSK)
 The Sleuth Kit is a collection of command-line tools for digital forensics.
