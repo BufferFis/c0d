@@ -72,6 +72,11 @@ Key TSK commands:
  - https://play.picoctf.org/practice/challenge/137 
  - https://play.picoctf.org/practice/challenge/285
 
+## Solutions written to you (As i nuked my laptop i got nothing to work with) 
+- I will share the solution of the hardest question which is shared in the end, you can go through it and figure it out on your own [wink wink]
+- https://ctftime.org/writeup/33100
+- This link has multiple write ups on it, you guys can go through a 
+
 ## Further Resources
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [OverTheWire Bandit Wargame](https://overthewire.org/wargames/bandit/) for practicing Linux skills
